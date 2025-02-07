@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <proxyConfiguration>
+    <modelPrefs>
+        <!-- Define model preferences here -->
+        <preference name="examplePreference" value="true"/>
+    </modelPrefs>
     <html>
         <![CDATA[
         <!DOCTYPE html>
